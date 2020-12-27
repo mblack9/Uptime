@@ -1,0 +1,8 @@
+## Interface: 90200
+## Version: 1.0
+## Title: Uptime
+## Notes: Tracks uptime of character abilities and effects during combat as an addon for World of Warcraft.
+## Author: Matthew Black
+
+main.lua
+interface.lua
